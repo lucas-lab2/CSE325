@@ -1,0 +1,27 @@
+## .NET build artifacts
+bin/
+obj/
+
+## User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+## Rider/VS/VSCode
+.vs/
+.idea/
+*.swp
+
+## macOS
+.DS_Store
+
+## Logs
+*.log
+

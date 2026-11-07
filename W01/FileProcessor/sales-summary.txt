@@ -1,0 +1,8 @@
+Sales Summary
+----------------------------
+Total Sales: R$ 7.827.265,00
+
+Details:
+    stores/203/sales.json: R$ 2.716.170,00
+    stores/202/sales.json: R$ 3.382.715,00
+    stores/201/sales.json: R$ 1.728.380,00

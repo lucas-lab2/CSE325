@@ -19,3 +19,4 @@ See [`NOTES.md`](./NOTES.md) (or [`W01/NOTES.md`](./W01/NOTES.md)) for:
 1. **Evidence of existing pizzas and the additional pizza** (*Hawaiian Luau*).
 2. **Request, response, and HTTP status codes** for all CRUD operations (`GET`, `POST`, `PUT`, `DELETE`).
 3. **Source code of the working sales summary function** (`GenerateSalesSummary`).
+
